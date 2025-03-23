@@ -1,5 +1,7 @@
 # Jesús Grela Castro
 
+![Jesús Grela Castro](https://jesusgrela.github.io/foto.jpg)
+
 ## Áreas de especialización
 
   Desarrollo de software (Java, JavaScript, .NET, R, Python, PySpark, Cobol)
