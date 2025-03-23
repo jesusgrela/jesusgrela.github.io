@@ -4,12 +4,14 @@
 
 ## Áreas de especialización
 
-  Desarrollo de software (Java, JavaScript, .NET, R, Python, PySpark, Cobol)
+Consultoría TIC: análisis de negocio en retail y gran distribución
 
-  Gestión y análisis de datos (Oracle, SQL Server, MySQL, MongoDB)
+Gestión de proyectos tecnológicos con enfoque ágil (Product Owner, Delivery Manager)
 
-  Diseño e implementación de Data Warehouse y cuadros de mando (Power BI, Tableau, Oracle BI, Qlik)
+Desarrollo de software (Java, JavaScript, .NET, R, Python, PySpark, Cobol)
 
-  Análisis de negocio en retail y gran distribución
+Gestión y análisis de datos masivos: Azure Data Factory, Databricks, Data Fabric, Azure Devops, ...
 
-  Gestión de proyectos tecnológicos con enfoque ágil (Product Owner, Delivery Manager)
+Diseño, implementación y administración de SGBD relacionales y documentales: Oracle, SQL Server, MySQL, MongoDB
+
+Diseño e implementación de Data Warehouse y cuadros de mando (Power BI, Tableau, Oracle BI, Qlik)
