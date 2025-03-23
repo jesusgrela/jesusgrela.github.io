@@ -4,7 +4,7 @@
 
 ## Áreas de especialización
 
-Consultoría TIC: análisis de negocio en retail y gran distribución
+__Consultoría TIC: análisis de negocio en retail y gran distribución__
 
 Gestión de proyectos tecnológicos con enfoque ágil (Product Owner, Delivery Manager)
 
