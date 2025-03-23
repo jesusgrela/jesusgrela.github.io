@@ -1,6 +1,6 @@
 # Jesús Grela Castro
 
-# Áreas de especialización
+## Áreas de especialización
 
 Desarrollo de software (Java, JavaScript, .NET, R, Python, PySpark, Cobol)
 
